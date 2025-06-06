@@ -131,11 +131,6 @@ public class TaskEventListener {
    * 📥 Mensaje recibido por el listener
 
 ---
-
-## 🧾 Autor
-
-**Carlos Valiente** 
-
 ---
 
 ## 📌 Recomendaciones
@@ -144,6 +139,3 @@ public class TaskEventListener {
 * Podés monitorear los mensajes usando el panel en: `http://localhost:15672` (user/pass: guest/guest)
 * Esta estructura permite escalar el sistema para notificaciones, logs, auditoría y mucho más.
 
----
-
-🚀 **Listo para producción y eventos en tiempo real**
